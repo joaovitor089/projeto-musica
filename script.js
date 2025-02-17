@@ -1,7 +1,7 @@
 let audios = [
-    {caminho:'matuto.mp3', legenda:'Matuto de verdade'},
-    {caminho:'Arash.mp3', legenda:'Arash'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'https://youtu.be/O9F1XMwJG1k?si=IfeeiblGbHg7LwrR, legenda:'Boi soberano'},
+    {caminho:'https://youtu.be/sscvxKHfW4c?si=lCUEkAPiY1lEfSmM, legenda:'Boate Azul'},
+    {caminho:', legenda:'Paula Fernandes'},
     {caminho:'Hayit.mp3', legenda:'Hayit'},
     {caminho:'Helena.mp3', legenda:'Helena'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
