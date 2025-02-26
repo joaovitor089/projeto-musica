@@ -4,7 +4,7 @@ let audios = [
     {caminho:'https://youtu.be/M3w2xDPHr90?si=8ZFooTL2ibkzerXD, legenda:'mamba negra'},
     {caminho:'https://youtu.be/vOElyIyRPdE?si=ZB391HluNO5jzn56', portal do universo:'Hayit'},
     {caminho:'https://youtu.be/KeUSDZ6xkYA?si=gSnuytdYNkRX8GKJ', um bom lugar:'Helena'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'https://youtu.be/TfJsiSMC0U8?si=q9bhxqs207_Zdr6V', legenda:'dormi na praça'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
