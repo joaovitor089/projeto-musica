@@ -1,9 +1,9 @@
 let audios = [
     {caminho:'https://youtu.be/O9F1XMwJG1k?si=IfeeiblGbHg7LwrR, legenda:'Boi soberano'},
     {caminho:'https://youtu.be/sscvxKHfW4c?si=lCUEkAPiY1lEfSmM, legenda:'Boate Azul'},
-    {caminho:', legenda:'Paula Fernandes'},
-    {caminho:'Hayit.mp3', legenda:'Hayit'},
-    {caminho:'Helena.mp3', legenda:'Helena'},
+    {caminho:'https://youtu.be/M3w2xDPHr90?si=8ZFooTL2ibkzerXD, legenda:'mamba negra'},
+    {caminho:'https://youtu.be/vOElyIyRPdE?si=ZB391HluNO5jzn56', portal do universo:'Hayit'},
+    {caminho:'https://youtu.be/KeUSDZ6xkYA?si=gSnuytdYNkRX8GKJ', um bom lugar:'Helena'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
