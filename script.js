@@ -5,9 +5,9 @@ let audios = [
     {caminho:'https://youtu.be/vOElyIyRPdE?si=ZB391HluNO5jzn56', Portal do universo:'Hayit'},
     {caminho:'https://youtu.be/KeUSDZ6xkYA?si=gSnuytdYNkRX8GKJ', Um bom lugar:'Helena'},
     {caminho:'https://youtu.be/TfJsiSMC0U8?si=q9bhxqs207_Zdr6V', legenda:'Dormi na praça'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'https://youtu.be/8Pilhg_dIQs?si=mvb78jU69TF4RYUt', legenda:'Céu azul'},
+    {caminho:'https://youtu.be/98BMxJU1AGw?si=yVpTyfBPH9LMlyrj', legenda:'Nz conta da loucura'},
+    {caminho:´https://youtu.be/EtTbS-KdcrE?si=zWxo1Uj3Fqn3AMDo', legenda:'Fundo da grota'},
 ];
 
 let botoes = document.querySelectorAll('.botao');
