@@ -1,13 +1,13 @@
 let audios = [
-    {caminho:'kkkkk, legenda:'Boi soberano'},
-    {caminho:'https://youtu.be/sscvxKHfW4c?si=lCUEkAPiY1lEfSmM, legenda:'Boate Azul'},
-    {caminho:'https://youtu.be/M3w2xDPHr90?si=8ZFooTL2ibkzerXD, legenda:'Mamba negra'},
-    {caminho:'https://youtu.be/vOElyIyRPdE?si=ZB391HluNO5jzn56', Portal do universo:'Hayit'},
-    {caminho:'https://youtu.be/KeUSDZ6xkYA?si=gSnuytdYNkRX8GKJ', Um bom lugar:'Helena'},
-    {caminho:'https://youtu.be/TfJsiSMC0U8?si=q9bhxqs207_Zdr6V', legenda:'Dormi na praça'},
-    {caminho:'https://youtu.be/8Pilhg_dIQs?si=mvb78jU69TF4RYUt', legenda:'Céu azul'},
-    {caminho:', legenda:'Nz conta da loucura'},
-    {caminho:´https://youtu.be/EtTbS-KdcrE?si=zWxo1Uj3Fqn3AMDo', legenda:'Fundo da grota'},
+    {caminho:'musica1.mp3, legenda:'Boi soberano'},
+    {caminho:'musica2.mp3, legenda:'Boate Azul'},
+    {caminho:'nusica3.mp3, legenda:'Mamba negra'},
+    {caminho:'musica4.mp3', Portal do universo:'Hayit'},
+    {caminho:'musica5.mp3', Um bom lugar:'Helena'},
+    {caminho:'musica6.mp3', legenda:'Dormi na praça'},
+    {caminho:'musica7.mp3', legenda:'Céu azul'},
+    {caminho:'musica8.mp3, legenda:'Nz conta da loucura'},
+    {caminho:´musica9.mp3', legenda:'Fundo da grota'},
 ];
 
 let botoes = document.querySelectorAll('.botao');
