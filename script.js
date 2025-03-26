@@ -1,13 +1,13 @@
 let audios = [
-    {caminho:'musica1.mp3, legenda:'Boi soberano'},
-    {caminho:'musica2.mp3, legenda:'Boate Azul'},
-    {caminho:'nusica3.mp3, legenda:'Mamba negra'},
-    {caminho:'musica4.mp3', Portal do universo:'Hayit'},
-    {caminho:'musica5.mp3', Um bom lugar:'Helena'},
-    {caminho:'musica6.mp3', legenda:'Dormi na praça'},
-    {caminho:'musica7.mp3', legenda:'Céu azul'},
-    {caminho:'musica8.mp3, legenda:'Nz conta da loucura'},
-    {caminho:´musica9.mp3', legenda:'Fundo da grota'},
+    {caminho:'musica1.mp3, boi soberano:'Boi soberano'},
+    {caminho:'musica2.mp3,boate azul:'Boate Azul'},
+    {caminho:'nusica3.mp3,mamba negra:'Mamba negra'},
+    {caminho:'musica4.mp3', Portal do universo:'portal do universo'},
+    {caminho:'musica5.mp3', Um bom lugar:'um bom lugar'},
+    {caminho:'musica6.mp3', dormi na praça :'Dormi na praça'},
+    {caminho:'musica7.mp3', céu azul:'Céu azul'},
+    {caminho:'musica8.mp3,nz conta da loucura:'Nz conta da loucura'},
+    {caminho:´musica9.mp3',fundo da grota:'Fundo da grota'},
 ];
 
 let botoes = document.querySelectorAll('.botao');
